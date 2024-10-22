@@ -3,6 +3,7 @@ import os
 import argparse
 from src.utils import sum_two_squares
 from src.figure import Figure
+import numpy
 from src.Circle import Circle
 def parse_args():
     parser = argparse.ArgumentParser()
